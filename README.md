@@ -9,15 +9,19 @@ day — 3 illustrated headlines, 10 illustrated cards, a numbered world map,
 region stats, a numbers bar, a UTC timeline, a DATE CHECK line and a source
 badge on every story. All art is hand-drawn with Pillow; no photographs.
 
+Round 3 revision (25 Nov): corrected the Ulleung jets (Russian, not North
+Korean), the Gaza toll, the Iowa ruling and the Zanzibar date; rebuilt the
+map on real geography; replaced weak briefs with consequential stories
+reported on 24 November; all source badges are real outlets now.
+
 ## Top stories
 
-1. **HUANG IS BACK** — Nvidia reinstates Jensen Huang as CEO after Trump
-   steps in; shares jump 31% and the Nasdaq soars 6.5%. (Reuters)
-2. **AIRSPACE ALERT** — A suspected North Korean plane breaches South Korean
-   airspace near Ulleung; islanders are ordered to shelters. (Japan Times)
+1. **HUANG IS BACK** — Nvidia reinstates Jensen Huang as CEO; shares jump
+   31%, adding $1.5 trillion in value as Trump hails the return. (Reuters)
+2. **RUSSIAN JETS** — Five Russian warplanes enter Seoul's air defence zone
+   near Ulleung; alert lifted. (Yonhap)
 3. **WARSHIP SUNK** — Ukraine says naval drones sank the Russian corvette
-   Merkury off Benghazi; Tripoli demands answers from Kyiv.
-   (Middle East Eye)
+   Merkury off Libya in a rare strike far beyond the Black Sea. (Reuters)
 
 ## Run
 
